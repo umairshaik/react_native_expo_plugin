@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "apple",
+    "android",
+    "web"
+  ],
+  "apple": {
+    "modules": [
+      "ExpoNativeConfigurationModule"
+    ]
+  },
+  "android": {
+    "modules": [
+      "expo.modules.nativeconfiguration.ExpoNativeConfigurationModule"
+    ]
+  }
+}
